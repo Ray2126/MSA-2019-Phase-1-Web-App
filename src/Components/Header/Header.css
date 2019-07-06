@@ -10,8 +10,10 @@
     max-width: 100%;
 }
 .headerText{
-  font-size: 80px;
+  font-size: 100px;
   margin: auto 0;
   font-weight: bold;
-  color: #eeeeee;
+  font-style: oblique;
+  color: white;
+  font-family: Impact;
 }

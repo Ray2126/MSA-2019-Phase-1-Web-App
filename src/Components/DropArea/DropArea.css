@@ -1,5 +1,5 @@
 .centreText {
-    text-align: center;
+    text-align: bottom;
   }
   
   h1 {
@@ -36,4 +36,5 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    font-size: 50px;
   }
